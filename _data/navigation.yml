@@ -9,10 +9,10 @@ header:
     key:        samples
   - title:      Archive
     url:        /archive.html
-  - title:      About
+  - title:      About me
     url:        /about.html
-  - title:      GitHub
-    url:        https://github.com/kitian616/jekyll-TeXt-theme
+  - title:      Publications
+    url:        /docs/publications
 
 
 docs-en:
