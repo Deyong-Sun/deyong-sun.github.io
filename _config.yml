@@ -11,24 +11,24 @@
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
 
-# config file for demo site, DELETE IT IF YOU WANT.
+# config file for development,  DELETE IT IF YOU WANT.
 
 
 ## => Site Settings
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://kitian616.github.io
-baseurl : /jekyll-TeXt-theme
+url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl : # does not include hostname
 title   : TeXt Theme
-description: >
-  A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
+description: > # this means to ignore newlines until "Language & timezone"
+  TeXt Theme for development.
 
 
 ## => Language and Timezone
 ##############################
-lang: en # the language of your site, default as "en"
-timezone: Asia/Shanghai
+lang: # the language of your site, default as "en"
+timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
@@ -39,25 +39,24 @@ author:
   url       :
   avatar    : /assets/apple-touch-icon.png
   bio: >
-    TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
-    Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-  email     : kitian616@outlook.com
-  facebook  :
-  twitter   : kitian616
-  weibo     : 234695683
-  googleplus: 101827554735084402671
-  telegram  :
-  medium    :
-  zhihu     :
-  douban    :
-  linkedin  :
-  github    : kitian616/jekyll-TeXt-theme
-  npm       :
+    TeXt Theme for development.
+  email     : 1
+  facebook  : 1
+  twitter   : 1
+  weibo     : 1
+  googleplus: 1
+  telegram  : 1
+  medium    : 1
+  zhihu     : 1
+  douban    : 1
+  linkedin  : 1
+  github    : 1
+  npm       : 1
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: Deyong-Sun/deyong-sun.github.io
+repository: Deyong-SUn/deyong-sun.github.io
 repository_tree: master
 
 
@@ -80,7 +79,7 @@ license: CC-BY-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
-  selectors: # "h1,h2,h3" (default)
+  selectors: "h1,h2,h3,h4,h5,h6" # "h1,h2,h3" (default)
 
 
 ## => Markdown Enhancements
@@ -98,30 +97,29 @@ chart: true # false (default), true
 
 ## => Paginate
 ##############################
-paginate: 8
+paginate: 4
 paginate_path: /test/page:num # don't change this unless for special need
 
 
 ## => Sources
 ##############################
-sources: # bootcdn (default), unpkg
+sources: unpkg # bootcdn (default), unpkg
 
 
 ## => Sharing
 ##############################
 sharing:
-  provider: addthis # false (default), "addtoany", "addthis", "custom"
+  provider: addtoany # false (default), "addtoany", "addthis", "custom"
 
   ## AddThis
   addthis:
-    id: ra-5be59ee2486770cb # AddThis pubid, e.g. ra-5xxxxxxxxxxx
+    id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
 
 
 ## => Comments
 ##############################
 comments:
-  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
-  # provider: valine
+  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -130,18 +128,18 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 143666b578a416f82175
-    clientSecret: 1d1c0604a1a4bff9b59ab7f56724dc0e8b837775
-    repository  : gitalk-demo
-    owner       : kitian616
-    admin:
-      - kitian616
+    clientID    : # GitHub Application Client ID
+    clientSecret: # GitHub Application Client Secret
+    repository  : # GitHub repo
+    owner       : # GitHub repo owner
+    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+      # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
-    app_id      : uAG3OhdcH8H4fxSqXLyBljA7-gzGzoHsz
-    app_key     : Mzf5m9skSwYVWVXhGiYMNyXs
+    app_id      : # LeanCloud App id
+    app_key     : # LeanCloud App key
     placeholder : # Prompt information
     visitor     : # false (default)
     meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
@@ -150,13 +148,13 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: leancloud # false (default), "leancloud", "custom"
+  provider: false # false (default), "leancloud", "custom"
 
   ## Leancloud
   leancloud:
-    app_id    : uAG3OhdcH8H4fxSqXLyBljA7-gzGzoHsz
-    app_key   : Mzf5m9skSwYVWVXhGiYMNyXs
-    app_class : TeXtDemo
+    app_id    : # LeanCloud App id
+    app_key   : # LeanCloud App key
+    app_class : # LeanCloud App class
 
 
 ## => Search
@@ -166,18 +164,18 @@ search:
 
   ## Google Custom Search Engine
   google:
-    custom_search_engine_id: # Google Custom Search Engine ID
+    # custom_search_engine_id: 017643444788069204610:4gvhea_mvga # Google Custom Search Engine ID
 
 
 ## => Analytics
 ##############################
 analytics:
-  provider: google # false (default), "google", "custom"
+  provider: false # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : UA-71907556-1
-    anonymize_ip: false
+    tracking_id : # Google Analytics id for the site
+    anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
 ## => Build
@@ -238,7 +236,7 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
-      # lightbox: true
+      lightbox: true
   ## samples
   - scope:
       path: ""
@@ -271,7 +269,7 @@ defaults:
         toc: true
       show_edit_on_github: true
       show_date: false
-      # lightbox: true
+      lightbox: true
   - scope:
       path: "_docs/zh"
     values:
@@ -285,15 +283,15 @@ defaults:
       lang: zh
       show_edit_on_github: true
       show_date: false
-      # lightbox: true
+      lightbox: true
 
 
 ## => Plugins
 ##############################
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jemoji
 
 data_dir: /docs/_data
