@@ -9,7 +9,8 @@ header:
     key:        samples
   - title:      Archive
     url:        /archive.html
-  - title:      Aboutme
+  - titles:
+    en:         Aboutme
     url:        /about.html
   - title:      GitHub
     url:        https://github.com/kitian616/jekyll-TeXt-theme
