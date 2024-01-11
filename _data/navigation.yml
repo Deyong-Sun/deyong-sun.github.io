@@ -1,10 +1,10 @@
 header:
-  - title:      Home
+  - title:      Publication
     url:        /test/
   - title:      Docs
     url:        /docs/en/quick-start
     key:        docs
-  - title:      Publications
+  - title:      Samples
     url:        /samples.html
     key:        samples
   - title:      Archive
