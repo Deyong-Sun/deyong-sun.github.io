@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: Deyong-SUn/deyong-sun.github.io
+repository: Deyong-Sun/deyong-sun.github.io
 repository_tree: master
 
 
@@ -63,7 +63,7 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : /test/ # home layout url, "/" (default)
+  home    : # /test/ # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
