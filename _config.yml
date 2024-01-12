@@ -108,7 +108,7 @@ sources: #unpkg # bootcdn (default), unpkg
 ## => Sharing
 ##############################
 sharing:
-  provider: addtoany # false (default), "addtoany", "addthis", "custom"
+  provider: # addtoany # false (default), "addtoany", "addthis", "custom"
 
   ## AddThis
   addthis:
@@ -163,7 +163,7 @@ search:
 
   ## Google Custom Search Engine
   google:
-    # custom_search_engine_id: 017643444788069204610:4gvhea_mvga # Google Custom Search Engine ID
+    custom_search_engine_id: # 017643444788069204610:4gvhea_mvga # Google Custom Search Engine ID
 
 
 ## => Analytics
