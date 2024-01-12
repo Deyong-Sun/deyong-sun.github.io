@@ -203,16 +203,6 @@ exclude:
   - /_posts
   - /index.html
 
-collections_dir: docs
-collections:
-  docs:
-    output: true
-  sample_page:
-    output: true
-  sample_articles:
-    output: true
-  sample_languages:
-    output: true
 
 defaults:
   ## home
@@ -236,7 +226,7 @@ defaults:
       show_subscribe: true
       pageview: true
       lightbox: true
-  
+
 
 
 ## => Plugins
@@ -247,4 +237,3 @@ plugins:
   # - jekyll-sitemap
   - jemoji
 
-data_dir: /docs/_data
