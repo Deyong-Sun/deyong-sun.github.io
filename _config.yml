@@ -222,7 +222,7 @@ defaults:
     values:
       articles:
         excerpt_type: html
-  
+
 
 
 ## => Plugins
