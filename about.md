@@ -31,7 +31,7 @@ key: page-about
 ![Image](/assets/images/me.jpg "Image_border+rounded"){:.border.rounded}
 </div>
 <div class="cell cell--12 cell--md-auto" markdown="1">
-    **Deyong Sun (Steven)** <br>
+**Deyong Sun (Steven)** <br/>
 He recieved his BSc degree in Petrolum Engineering from *China Univeristy of Petrolum-Beijing (China)* in 2018 and his MSc degree from School of Aerospace of Engineering at *Beijing Institute of Technology* in 2021. During his MSc research experience, his research areas focus on 'isogeometric boundary element method, shape optimization and viscoelastic analysis of composite materials'. Now, he is a PhD student of the Chinese University of Hong Kong at the group of **[Advanced Composite Manufacturing Laboratory](https://www.acml-cuhk.com/)**
 </div>
 </div>
