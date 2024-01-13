@@ -48,3 +48,6 @@ He recieved his BSc degree in Petrolum Engineering from *China Univeristy of Pet
 - 2021 National Scholarship
 - 2021 Excellent Graduate in Beijing
 
+## Latest Resume
+
+If you are interested in my detailed background, you can download the [lastest CV](/docs/assets/CV_Deyong Sun.pdf) updated by 14-Octo-2022.
