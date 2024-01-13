@@ -27,13 +27,13 @@ key: page-about
 ---
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="assets/images/me.jpg"/>
+    <img class="image image--lg" src="/assets/images/me.jpg"/>
   </div>
   <div class="item__content">
     <div class="item__header">
       <h4>SUN Deyong</h4>
     </div>
-    <div class="item__description">
+    <div class="item__description" markdown="1">
       <p>**Deyong Sun (Steven)** recieved his BSc degree in Petrolum Engineering
 from *China Univeristy of Petrolum-Beijing (China)* in 2018 and his MSc
 degree from School of Aerospace of Engineering at *Beijing Institute of
