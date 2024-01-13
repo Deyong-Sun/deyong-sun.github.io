@@ -44,3 +44,10 @@ If you are interested in my detailed background, you can download the [lastest C
 
 ## Teaching
 
+- Teaching Assistant @ The Chinese University of Hong Kong
+  * Current:
+    * MAEG 5030 **Geometry Computing for Design and Manufacturing** 2nd term, 2023-2024
+  * Past:
+    * MAEG 4020 **Finite Element Modelling and Analysis** 1nd term, 2023-2024
+    * MAEG 3020 **Manufacturing Technology** 2nd term, 2022-2023
+    * MAEG 4020 **Finite Element Modelling and Analysis** 1nd term, 2022-2023
