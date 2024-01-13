@@ -1,15 +1,15 @@
 header:
-  - title:      Home
+  - title:      HOME
     url:        /test/
-  - title:      Samples
+  - title:      PUBLICATIONS
+    url:        /articles/item-cover-excerpt-readmore-info.html
+  - title:      CODES
     url:        /samples.html
     key:        samples
-  - title:      Archive
+  - title:      ARCHIVE
     url:        /archive.html
   - title:      ABOUT ME
     url:        /about.html
-  - title:      PUBLICATIONS
-    url:        /articles/item-cover-excerpt-readmore-info.html
 
 docs-en:
   - title:      Start

@@ -1,21 +1,15 @@
 header:
-  - title:      Home
+  - title:      HOME
     url:        /test/
-  - title:      Docs
-    url:        /docs/en/quick-start
-    key:        docs
-  - title:      Samples
+  - title:      PUBLICATIONS
+    url:        /articles/item-cover-excerpt-readmore-info.html
+  - title:      CODES
     url:        /samples.html
     key:        samples
-  - title:      Archive
+  - title:      ARCHIVE
     url:        /archive.html
-  - title:      About
+  - title:      ABOUT ME
     url:        /about.html
-  - title:      GitHub
-    url:        https://github.com/kitian616/jekyll-TeXt-theme
-  - title:      Publication
-    url:        /articles/item-cover-excerpt-readmore-info.html
-
 
 docs-en:
   - title:      Start
