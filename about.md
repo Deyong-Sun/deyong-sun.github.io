@@ -29,14 +29,15 @@ Laboratory](https://www.acml-cuhk.com/)**.
 
 ## Education
 
-* 2022-2026  **The Chinese University of Hong Kong** *Mechanics and Automative Engineering*
-* 2018-2021  **Beijing Institute of Technology** *Mechanics*
-* 2014-2018  **China University of Petroleum** *Petroleum Enginering*
+* 2022-2026  **The Chinese University of Hong Kong (CUHK)** *Mechanics and Automative Engineering*
+* 2018-2021  **Beijing Institute of Technology (BIT)** *Mechanics*
+* 2014-2018  **China University of Petroleum (CUP)** *Petroleum Enginering*
 
 ## Honors & Awards
 
 - 2021 National Scholarship
 - 2021 Excellent Graduate in Beijing
+- 2021 Excellent Graduate Thesis in Beijing
 
 ## Latest Resume
 
