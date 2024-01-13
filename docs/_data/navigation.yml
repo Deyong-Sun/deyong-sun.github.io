@@ -13,7 +13,8 @@ header:
     url:        /about.html
   - title:      GitHub
     url:        https://github.com/kitian616/jekyll-TeXt-theme
-
+  - title:      Publication
+    url:        /articles/item-cover-excerpt-readmore-info.html
 
 docs-en:
   - title:      Start
