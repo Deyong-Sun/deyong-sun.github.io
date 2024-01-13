@@ -51,5 +51,6 @@ header:
       # @end locale config
     url: /about.html
 
-  - title:    Publications
-    url:      /docs/publications
+  - titles:
+      en      : &EN       Publication
+    url: /docs/publications.html
