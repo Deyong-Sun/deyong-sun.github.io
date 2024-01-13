@@ -25,7 +25,26 @@ titles:
   # @end locale config
 key: page-about
 ---
-
+<div class="item">
+  <div class="item__image">
+    <img class="image image--lg" src="assets/images/me.jpg"/>
+  </div>
+  <div class="item__content">
+    <div class="item__header">
+      <h4>SUN Deyong</h4>
+    </div>
+    <div class="item__description">
+      <p>**Deyong Sun (Steven)** recieved his BSc degree in Petrolum Engineering
+from *China Univeristy of Petrolum-Beijing (China)* in 2018 and his MSc
+degree from School of Aerospace of Engineering at *Beijing Institute of
+Technology* in 2021. During his MSc research experience, his research
+areas focus on 'isogeometric boundary element method, shape optimization
+and viscoelastic analysis of composite materials'. Now, he is a
+PhD student of the Chinese University of Hong Kong at the group of
+**[Advanced Composite Manufacturing Laboratory](https://www.acml-cuhk.com/)**</p>
+    </div>
+  </div>
+</div>
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
 TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
