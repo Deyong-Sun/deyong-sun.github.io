@@ -14,7 +14,7 @@ Success!
 
 `success`{:.success} `info`{:.info} `warning`{:.warning} `error`{:.error}
 
-<div style="text-align:center">
+<div class="img-center">
 ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded}
 </div>
 
