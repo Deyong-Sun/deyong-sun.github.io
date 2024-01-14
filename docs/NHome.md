@@ -17,9 +17,9 @@ Success!
 <img src="/assets/images/me_circle.png" width="30%" />
 </div>
 
+<div align=center>
 <div class="grid-container">
 <div class="grid grid--p-1">
-<div align=center>
 <div class="cell cell--6 cell--md-4 cell--lg-2">
 <div class="button button--success button--pill my-2"><i class="fas fa-space-shuttle"></i> CLICK ME</div>
 </div>
