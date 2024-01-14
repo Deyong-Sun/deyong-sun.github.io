@@ -14,12 +14,8 @@ Success!
 
 `success`{:.success} `info`{:.info} `warning`{:.warning} `error`{:.error}
 <div align=center>
-<img src="/docs/assets/images/image.jpg" width="80%" />
+<img src="/assets/images/me_circle.png" width="30%" />
 </div>
-<div style="width:80%; margin:0 auto;" align=center markdown="1">
-    ![Image](/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow}
-</div>
-
 
 <div class="grid-container">
 <div class="grid grid--p-1">
