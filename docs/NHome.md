@@ -15,7 +15,7 @@ Success!
 `success`{:.success} `info`{:.info} `warning`{:.warning} `error`{:.error}
 
 
-![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded}
+![Image center](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded}
 
 
 
