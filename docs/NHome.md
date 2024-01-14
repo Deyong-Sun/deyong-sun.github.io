@@ -1,9 +1,11 @@
 ---
-title: TeXt - Additional Styles
-key: 20170808
-tags: TeXt
+layout: articles
+title: Articles - publication
 ---
 
+<div class="article__content" markdown="1">
+
+---
 Success!
 {:.success}
 
