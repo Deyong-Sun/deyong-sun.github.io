@@ -15,8 +15,9 @@ Success!
 `success`{:.success} `info`{:.info} `warning`{:.warning} `error`{:.error}
 
 <div style="width:80%; margin:0 auto;" align="center" markdown="1">
-    ![image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg){:.circle.shadow}
+    ![image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.circle.shadow}
 </div>
+<center>![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded} </center>
 
 
 
