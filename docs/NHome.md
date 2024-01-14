@@ -14,9 +14,9 @@ Success!
 
 `success`{:.success} `info`{:.info} `warning`{:.warning} `error`{:.error}
 
-<div class="img-center">
-![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded}
-</div>
+
+<center>![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded} </center>
+
 
 
 <div class="grid-container">
