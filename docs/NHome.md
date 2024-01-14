@@ -1,6 +1,9 @@
 ---
 layout: articles
 title: Articles - publication
+modify_date: 2017-09-09
+author: SUN Deyong
+show_author_profile: true
 ---
 
 <div class="article__content" markdown="1">
