@@ -15,7 +15,7 @@ Success!
 `success`{:.success} `info`{:.info} `warning`{:.warning} `error`{:.error}
 
 <div style="width:80%; margin:0 auto;" align="center" markdown="1">
-    ![Image](/docs/assets/images/image.jpg){:.circle.shadow}
+    ![Image](/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow}
 </div>
 
 
