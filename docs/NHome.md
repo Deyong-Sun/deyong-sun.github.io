@@ -13,8 +13,10 @@ Success!
 {:.success}
 
 `success`{:.success} `info`{:.info} `warning`{:.warning} `error`{:.error}
-
-<div align="center" markdown="1">
+<div align=center>
+<img src="/docs/assets/images/image.jpg" width="80%" />
+</div>
+<div style="width:80%; margin:0 auto;" align=center markdown="1">
     ![Image](/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow}
 </div>
 
