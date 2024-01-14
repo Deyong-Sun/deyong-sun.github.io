@@ -1,5 +1,7 @@
 header:
   - title:      HOME
+    url:        /docs/NHome
+  - title:      BLOG
     url:        /test/
   - title:      PUBLICATIONS
     url:        /articles/item-cover-excerpt-readmore-info.html
