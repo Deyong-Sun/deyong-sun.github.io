@@ -8,7 +8,6 @@ show_author_profile: true
 
 <div class="article__content" markdown="1">
 
-`success`{:.success} `info`{:.info} `warning`{:.warning} `error`{:.error}
 <div align=center>
 <img src="/assets/images/me_circle.png" width="30%" />
 </div>
